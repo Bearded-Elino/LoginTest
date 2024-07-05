@@ -1,0 +1,6 @@
+@VB_0011_HostAddress = http://localhost:5298
+
+GET {{VB_0011_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VB_0011.props" />
+</Project>
